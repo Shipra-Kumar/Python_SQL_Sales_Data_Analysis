@@ -1,9 +1,9 @@
 # SQL_Python_Sales_Data_Analysis_Project
 
 Project Objectives:
-a) To perform exploratory data analysis (EDA) to uncover sales trends and patterns.
-b) To utilize SQL queries to extract meaningful insights from the dataset.
-c) To combine Python’s data visualization capabilities with SQL's querying power for a robust analytical workflow.
+To perform exploratory data analysis (EDA) to uncover sales trends and patterns.
+To utilize SQL queries to extract meaningful insights from the dataset.
+To combine Python’s data visualization capabilities with SQL's querying power for a robust analytical workflow.
 
 
 Features-
