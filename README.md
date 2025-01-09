@@ -1,4 +1,4 @@
-# Python_SQL_Sales_Data_Analysis_Project
+# Python_SQL_Sales_Data_Analysis
 
 Project Objectives:
 To perform exploratory data analysis (EDA) to uncover sales trends and patterns.
